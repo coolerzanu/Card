@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../../Downloads/FINAL FINAL FINAL/",
+      "plot": "../../../../Downloads/FINAL FINAL FINAL FINAL/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -641,7 +641,13 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
+    "top_level_sheets": [
+      {
+        "filename": "PCB-Sprint.kicad_sch",
+        "name": "PCB-Sprint",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+      }
+    ],
     "used_designators": "D1-5",
     "variants": []
   },
